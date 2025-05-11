@@ -1,4 +1,4 @@
-![](https://github.com/Rodea41/Machine-Learning-Algorithms/blob/main/img.jpg=x500)
+![](https://github.com/Rodea41/Machine-Learning-Algorithms/blob/main/img.jpg =x250)
 
 
 # Machine-Learning-Algorithms
