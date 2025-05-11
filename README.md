@@ -38,7 +38,7 @@ Each notebook in this repository demonstrates the implementation of a specific m
    - File: `logistic_regression.ipynb`
    - Description: Implements binary classification using logistic regression. Includes ROC curve analysis and accuracy metrics.
    - Use Case: Logistic regression is used for classification problems, such as determining whether an email is spam, predicting customer churn, or diagnosing diseases (e.g., diabetes: yes/no).
-   - 
+     
 3. **Decision Trees**:
    - File: `decision_trees.ipynb`
    - Description: Explores decision tree classifiers with examples of tree visualization and pruning techniques.
