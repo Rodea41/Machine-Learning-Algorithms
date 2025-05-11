@@ -1,6 +1,6 @@
 ![](https://github.com/Rodea41/Machine-Learning-Algorithms/blob/main/img.jpg)
 
-<img src="http://....jpg](https://github.com/Rodea41/Machine-Learning-Algorithms/blob/main/img.jpg" width="400" height="200" />
+<img src="https://github.com/Rodea41/Machine-Learning-Algorithms/blob/main/img.jpg" width="800" height="400" />
 
 
 # Machine-Learning-Algorithms
