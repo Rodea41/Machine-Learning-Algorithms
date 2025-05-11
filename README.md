@@ -6,11 +6,7 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Algorithms](#algorithms)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Notebook Details](#notebook-details)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 This repository contains various machine learning algorithms implemented during my time at Fresno State. The goal is to provide a comprehensive collection of examples and insights into machine learning techniques.
