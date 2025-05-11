@@ -1,4 +1,4 @@
-![Uploading pexels-pixabay-373543.jpg…]()
+![](https://github.com/Rodea41/Machine-Learning-Algorithms/blob/main/img.jpg)
 
 
 # Machine-Learning-Algorithms
